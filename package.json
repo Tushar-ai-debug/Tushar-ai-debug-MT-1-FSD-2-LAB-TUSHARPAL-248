@@ -1,0 +1,24 @@
+{
+  "name": "mt1-fsd-lab-assessment",
+  "version": "1.0.0",
+  "description": "Product inventory REST API using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tushar-ai-debug/Tushar-ai-debug-MT-1-FSD-2-LAB-TUSHARPAL-248.git"
+  },
+  "keywords": [],
+  "author": "Tushar Pal",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tushar-ai-debug/Tushar-ai-debug-MT-1-FSD-2-LAB-TUSHARPAL-248/issues"
+  },
+  "homepage": "https://github.com/Tushar-ai-debug/Tushar-ai-debug-MT-1-FSD-2-LAB-TUSHARPAL-248#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
